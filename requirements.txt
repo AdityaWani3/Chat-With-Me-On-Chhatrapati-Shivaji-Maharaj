@@ -21,3 +21,4 @@ langchain-google-vertexai
 SpeechRecognition
 gTTS
 python-docx
+langchain-groq
