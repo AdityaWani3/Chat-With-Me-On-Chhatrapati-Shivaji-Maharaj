@@ -6,6 +6,7 @@ python-dotenv
 IPython
 llama-index-embeddings-gemini
 streamlit
+streamlit-option-menu
 
 neo4j-driver
 gradio
