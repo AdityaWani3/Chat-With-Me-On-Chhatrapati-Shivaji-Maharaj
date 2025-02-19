@@ -19,3 +19,4 @@ langchain-community
 langchain-google-vertexai
 
 SpeechRecognition
+gTTS
