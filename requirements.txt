@@ -7,6 +7,7 @@ IPython
 llama-index-embeddings-gemini
 streamlit
 streamlit-option-menu
+py2neo
 
 neo4j-driver
 gradio
