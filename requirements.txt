@@ -16,7 +16,7 @@ langchain-google-vertexai
 
 SpeechRecognition
 pipwin
-pyaudio-0.2.14
+pyaudio
 gTTS
 
 blinker==1.8.2
