@@ -8,6 +8,8 @@ llama-index-embeddings-gemini
 streamlit
 streamlit-option-menu
 py2neo
+pyvis
+
 
 neo4j-driver
 gradio
