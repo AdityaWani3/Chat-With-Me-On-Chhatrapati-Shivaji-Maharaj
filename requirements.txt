@@ -13,7 +13,7 @@ pyvis
 
 neo4j-driver
 gradio
-langchain==0.1.16
+langchain
 google-cloud-aiplatform
 langchain-community
 langchain-google-vertexai
