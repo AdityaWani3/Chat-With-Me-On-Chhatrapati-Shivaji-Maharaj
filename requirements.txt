@@ -18,6 +18,7 @@ google-cloud-aiplatform
 langchain-community
 langchain-google-vertexai
 sentence-transformers
+-U langchain-community
 
 SpeechRecognition
 gTTS
